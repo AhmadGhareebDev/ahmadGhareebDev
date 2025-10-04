@@ -28,8 +28,6 @@ I'm a computer science student based in Syria and a full-stack MERN developer. C
 
 ---
 
----
-
 ### 👨‍💻 My Coding Journey
 
 I started my coding journey as a curious CS student in Syria, passionate about building clean, responsive web apps. I’ve grown into a full-stack MERN developer and now expanding into AI/ML/DL. My goal is simple: keep improving, keep building, and never stop learning.
