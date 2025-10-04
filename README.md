@@ -28,10 +28,6 @@ I'm a computer science student based in Syria and a full-stack MERN developer. C
 
 ---
 
-### 📊 GitHub Stats
-
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadGhareebDev&show_icons=true&theme=gruvbox)
-
 ---
 
 ### 👨‍💻 My Coding Journey
