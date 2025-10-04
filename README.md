@@ -1,4 +1,4 @@
-# 🏄‍♂️ Ahmad Ghareeb
+# 🏋️‍♂️ Ahmad Ghareeb
 
 **`Full stack MERN dev`**
 
